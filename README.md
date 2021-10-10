@@ -19,4 +19,4 @@
 ### Working on:
     
 <li> S41 - A very powerful rat with a bunch of exploits for windwos + linux
-<Li> Making more tool for MrRobot
+<Li> Making more tools for MrRobot
