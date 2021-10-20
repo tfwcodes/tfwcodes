@@ -19,4 +19,3 @@
 ### Working on:
     
 <li> S41 - A very powerful penetration testing framework
-<Li> Making more tools for MrRobot
