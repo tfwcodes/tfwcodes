@@ -18,4 +18,5 @@
     
 ### Working on:
     
-<li> S41 - A very powerful penetration testing framework
+<li> S41 - A powerful penetration testing framework
+<li> Trying to get better at ctf's
