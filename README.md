@@ -1,6 +1,5 @@
 ### Contact:
 
-<li> email: mungureanuu@gmail.com
 <li> discord: tfw#2946
 
 ### Interests:
