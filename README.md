@@ -4,7 +4,7 @@
 
 ### Interests:
 
-<li> I am interested in programming and python and especially in cybersecurity and to develop hacking tools
+<li> I am interested in programming and c# and especially in cybersecurity and to develop hacking tools
 <li> Free to learn more things about hacking:)
 
   
