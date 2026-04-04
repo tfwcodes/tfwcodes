@@ -4,8 +4,8 @@
 
 ### Interests:
 
-<li> I am interested in programming and c# and especially in cybersecurity and to develop hacking tools
-<li> Free to learn more things about hacking:)
+<li> I am interested in programming and c#/python and especially in cybersecurity.
+<li> Free to learn more things about hacking.
 
   
 ### Apps made by me:
@@ -13,9 +13,11 @@
   <li> WebMenu - Web pentesting tool menu (https://github.com/tfwcodes/WebMenu)
   <li> Online-Meet - Online Meet is an app where you can share screen, turn on camera and chat with other people (https://github.com/tfwcodes/Online-Meet)
   <li> Tic-Tac-Toe-Online - Online tic tac toe game (https://github.com/tfwcodes/online-tic-tac-toe)
-    
+
+### Certifications:
+  <li> eJPT
     
 ### Working on:
-    
-<li> S41 - A powerful penetration testing framework
+
+<li> eWPT certification
 <li> Trying to get better at ctf's
