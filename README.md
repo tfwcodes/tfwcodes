@@ -11,7 +11,8 @@
 ### Pentesting tools:
   <li> MrRobot - Pentesting tool menu (https://github.com/tfwcodes/MrRobot)
   <li> C# Remote-Acces-Trojan - A simple yet powerful rat made in c# (https://github.com/tfwcodes/Rat)
-  <li> PyRat - https://github.com/tfwcodes/RatPy
+  <li> PyRat - Rat made in python(https://github.com/tfwcodes/RatPy)
+  
 
 
 ### Certifications:
