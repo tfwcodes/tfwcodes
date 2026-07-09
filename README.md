@@ -14,7 +14,7 @@
   <li> MrRobot - Pentesting tool menu (https://github.com/tfwcodes/MrRobot) 
   <li> C# Rat - Powerful C# Remote-Acces-Trojan with built-in network protocol and many features available (https://github.com/tfwcodes/CSharp-Powerful-Rat)
   <li> Jwt Exploits: A collection of different JWT exploits in python(https://github.com/tfwcodes/JwtExploits)
-  <li> Out-of-band-SQLi-Lab - https://github.com/tfwcodes/Out-Of-Band-SQLi-Lab
+  <li> Out-of-band-SQLi-Lab - (https://github.com/tfwcodes/Out-Of-Band-SQLi-Lab)
   
 
 
@@ -26,6 +26,6 @@
   
 ### Working on:
 
-<li> OSCP certification
-<li> Trying to get better at ctf's
-<li> Looking for cybersecurity projects to work on
+<li> OSCP certification.
+<li> Trying to get better at ctf's.
+<li> Looking for cybersecurity projects to work on/job oppurtinities.
