@@ -1,6 +1,7 @@
 ### Contact:
 
-<li> discord: tfw#2946
+<li> E-mail: mihai.ungureanu.talk@gmail.com
+<li> Discord: tfw#2946
 
 ### Interests:
 
@@ -18,8 +19,10 @@
 ### Certifications:
   <li> eJPT
   <li> eWPT
+  <li> eWPTX
     
 ### Working on:
 
-<li> eWPTX certification
+<li> OSCP certification
 <li> Trying to get better at ctf's
+<li> Looking for cybersecurity projects to work on
