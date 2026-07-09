@@ -1,6 +1,7 @@
 ### Contact:
 
 <li> E-mail: mihai.ungureanu.talk@gmail.com
+<li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 <li> Discord: tfw#2946
 
 ### Interests:
