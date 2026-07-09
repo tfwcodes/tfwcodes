@@ -9,9 +9,11 @@
 <li> Free to learn more things about hacking.
 
   
-### Pentesting tools:
-  <li> MrRobot - Pentesting tool menu (https://github.com/tfwcodes/MrRobot)
-  <li> C# Remote-Acces-Trojan - A simple yet powerful rat made in c# (https://github.com/tfwcodes/Rat)
+### Personal programming projects:
+  <li> MrRobot - Pentesting tool menu (https://github.com/tfwcodes/MrRobot) 
+  <li> C# Rat - Powerful C# Remote-Acces-Trojan with built in network protocol and many features available (https://github.com/tfwcodes/CSharp-Powerful-Rat)
+  <li> Jwt Exploits: A collection of different JWT exploits in python(https://github.com/tfwcodes/JwtExploits)
+  <li> Out-of-band-SQLi-Lab - https://github.com/tfwcodes/Out-Of-Band-SQLi-Lab
   
 
 
