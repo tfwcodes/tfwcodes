@@ -6,7 +6,7 @@
 
 ### Interests:
 
-<li> I am interested in programming and c#/python and especially in cybersecurity.
+<li> I am interested in programming + c# & python exploit development + web application pentesting.
 <li> Free to learn more things about hacking.
 
   
@@ -18,7 +18,7 @@
   
 
 
-### Awards:
+### Awards+Certifications:
   <li> eJPT (https://certs.ine.com/176c2a95-a461-4319-8bf7-53338fcf89e9#acc.jmABV41l)
   <li> eWPT (https://certs.ine.com/a0ea86a9-ce75-44c9-a384-004583a9c42d#acc.gYbckBzd)
   <li> eWPTX (https://certs.ine.com/ffb0c8ca-8e92-453d-aa24-7428ef2700aa#acc.YavSPz8k)
