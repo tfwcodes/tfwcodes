@@ -1,7 +1,8 @@
 ### Contact:
+If you have a question you can contact me on:
+     <li> E-mail: mihai.ungureanu.talk@gmail.com
+    <li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 
-<li> E-mail: mihai.ungureanu.talk@gmail.com
-<li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 
 ### Interests:
 
