@@ -12,7 +12,7 @@ If you have a question you can contact me on:
   
 ### Personal hacking projects:
   <li> MrRobot - Pentesting tool menu. (https://github.com/tfwcodes/MrRobot) 
-  <li> C# Rat - Powerful C# Remote-Acces-Trojan with built-in network protocol & ECDH encryption | Many features available (https://github.com/tfwcodes/CSharp-Powerful-Rat)
+  <li> C# Rat - Powerful C# Remote-Acces-Trojan | Built-in network protocol & ECDH key-agreement protocol with asymmetric encryption | Many features available (https://github.com/tfwcodes/CSharp-Powerful-Rat)
   <li> Jwt Exploits: A collection of different JWT exploits in python. (https://github.com/tfwcodes/JwtExploits)
   <li> Out-of-band-SQLi-Lab - (https://github.com/tfwcodes/Out-Of-Band-SQLi-Lab)
   <li> PyRat - A simple remote access trojan made in python, with built-in network protocol. (https://github.com/tfwcodes/RatPy)
