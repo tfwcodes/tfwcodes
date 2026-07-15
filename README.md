@@ -2,7 +2,6 @@
 
 <li> E-mail: mihai.ungureanu.talk@gmail.com
 <li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
-<li> Discord: tfw#2946
 
 ### Interests:
 
@@ -27,6 +26,6 @@
   
 ### Working on:
 
-<li> OSCP certification.
+<li> OSCP & eCPPT certs + HTB AD and PrivEsc labs.
 <li> Trying to get better at ctf's.
 <li> Looking for cybersecurity projects to work on/job oppurtinities.
