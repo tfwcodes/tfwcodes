@@ -1,12 +1,12 @@
 ### Contact:
 If you have a question you can contact me on:
-     <li> E-mail: mihai.ungureanu.talk@gmail.com
-    <li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
+<li> E-mail: mihai.ungureanu.talk@gmail.com
+<li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 
 
 ### Interests:
 
-<li> I am interested in programming + c# & python exploit development + web application pentesting.
+<li> I am interested in c# & python exploit development + web application pentesting physics & aerospace engineering.
 <li> Free to learn more things about hacking.
 
   
