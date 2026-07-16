@@ -6,7 +6,7 @@ If you have a question you can contact me on:
 
 ### Interests:
 
-<li> I am interested in C# & python exploit development | Web app pentest | Red Teaming | Physics, math & aerospace engineering.
+<li> I am interested in C# & python exploit development | Web app pentesting | Red Teaming | Physics, math & aerospace engineering.
 <li> Free to learn more things about hacking.
 
   
