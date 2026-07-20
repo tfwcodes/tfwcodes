@@ -27,6 +27,6 @@ If you have a question you can contact me on:
   
 ### Working on:
 
-<li> OSCP & eCPPT certs | HTB AD and PrivEsc labs.
+<li> OSCP & eCPPT certs | HTB AD and PrivEsc labs | PortSwigger labs.
 <li> Trying to get better at ctf's.
 <li> Looking for cybersecurity projects to work on/job oppurtinities.
