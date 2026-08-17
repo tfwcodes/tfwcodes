@@ -23,10 +23,11 @@ If you have a question you can contact me on:
   <li> eJPT (https://certs.ine.com/176c2a95-a461-4319-8bf7-53338fcf89e9#acc.jmABV41l)
   <li> eWPT (https://certs.ine.com/a0ea86a9-ce75-44c9-a384-004583a9c42d#acc.gYbckBzd)
   <li> eWPTX (https://certs.ine.com/ffb0c8ca-8e92-453d-aa24-7428ef2700aa#acc.YavSPz8k)
+  <li> eCPPT (https://certs.ine.com/39de9dc8-a12e-4b6a-baed-747afcc05725#acc.cpIP2o17)
   <li> 3rd Place Winner 9th grade Individual @ NSS Space Settlement Contest 2025: https://nss.org/settlement/nasa/Contest/Results/2025/
   
 ### Working on:
 
-<li> OSCP & eCPPT certs | HTB AD and PrivEsc labs | PortSwigger labs.
+<li> OSCP cert | HTB AD and PrivEsc labs | PortSwigger labs.
 <li> Trying to get better at ctf's.
 <li> Looking for cybersecurity projects to work on/job oppurtinities.
