@@ -3,12 +3,12 @@ If you have a question you can contact me on:
 <li> E-mail: mihai.ungureanu.talk@gmail.com
 <li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 
+### Position:
+<li> Junior Penetration Tester @ CybrOps
 
 ### Interests:
-
 <li> I am interested in C# & python exploit development | Web app pentesting | Red Teaming | Physics, math & aerospace engineering.
 <li> Free to learn more things about hacking.
-
   
 ### Personal hacking projects:
   <li> MrRobot - Pentesting tool menu. (https://github.com/tfwcodes/MrRobot) 
@@ -18,7 +18,6 @@ If you have a question you can contact me on:
   <li> PyRat - A simple remote access trojan made in python, with built-in network protocol. (https://github.com/tfwcodes/RatPy)
   <li> Ftp-Exploits - DoS, Brute-force & custom buffer-overflow shellcode for FTP. (https://github.com/tfwcodes/FTP-exploits)
 
-
 ### Awards & Certifications:
   <li> eJPT (https://certs.ine.com/176c2a95-a461-4319-8bf7-53338fcf89e9#acc.jmABV41l)
   <li> eWPT (https://certs.ine.com/a0ea86a9-ce75-44c9-a384-004583a9c42d#acc.gYbckBzd)
@@ -27,7 +26,5 @@ If you have a question you can contact me on:
   <li> 3rd Place Winner 9th grade Individual @ NSS Space Settlement Contest 2025: https://nss.org/settlement/nasa/Contest/Results/2025/
   
 ### Working on:
-
 <li> OSCP cert | HTB AD and PrivEsc labs | PortSwigger labs.
 <li> Trying to get better at ctf's.
-<li> Looking for cybersecurity projects to work on/job oppurtinities.
