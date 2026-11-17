@@ -23,5 +23,5 @@ If you have a question you can contact me on:
   <li> 3rd Place Winner 9th grade Individual @ NSS Space Settlement Contest 2025: https://nss.org/settlement/nasa/Contest/Results/2025/
   
 ### Working on:
-<li> OSCP cert | HTB AD and PrivEsc labs | PortSwigger labs.
+<li> OSCP cert | HTB AD and Linux labs | PortSwigger labs.
 <li> Trying to get better at ctf's.
