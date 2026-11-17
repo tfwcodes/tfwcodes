@@ -3,9 +3,6 @@ If you have a question you can contact me on:
 <li> E-mail: mihai.ungureanu.talk@gmail.com
 <li> LinkedIn profile: https://www.linkedin.com/in/mihai-ungureanu-b49b66420/
 
-### Position:
-<li> Junior Penetration Tester @ CybrOps
-
 ### Interests:
 <li> I am interested in C# & python exploit development | Web app pentesting | Red Teaming | Physics, math & aerospace engineering.
 <li> Free to learn more things about hacking.
