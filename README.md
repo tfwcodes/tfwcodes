@@ -21,7 +21,10 @@ If you have a question you can contact me on:
   <li> eWPTX (https://certs.ine.com/ffb0c8ca-8e92-453d-aa24-7428ef2700aa#acc.YavSPz8k)
   <li> eCPPT (https://certs.ine.com/39de9dc8-a12e-4b6a-baed-747afcc05725#acc.cpIP2o17)
   <li> 3rd Place Winner 9th grade Individual @ NSS Space Settlement Contest 2025: https://nss.org/settlement/nasa/Contest/Results/2025/
-  
+
+### Experience
+<li> Junior penetration tester @ CybrOps (sep - dec 2026)
+
 ### Working on:
 <li> OSCP cert | HTB AD and Linux labs | PortSwigger labs.
 <li> Trying to get better at ctf's.
